@@ -46,6 +46,7 @@ function getTotalSupply() {
 mintNFT("My Nft", "Beatifully drawn imaginary image", "image1.jpg");
 mintNFT("Cool boy", "Nicely drawn imaginary image", "image2.jpg");
 mintNFT("Made Up", "Made up name", "image3.jpg");
+mintNFT("A fourth", "Made up another to show mint scenario name", "image3.jpg");
 
 listNFTs();
 
